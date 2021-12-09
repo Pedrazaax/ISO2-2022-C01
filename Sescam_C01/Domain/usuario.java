@@ -9,5 +9,6 @@ public class usuario {
 	private string apellidos;
 	private string dni;
 	private string correo;
+	private ArrayList<string> permisos;
 
 }
