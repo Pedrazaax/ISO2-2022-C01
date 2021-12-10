@@ -1,8 +1,8 @@
-package StaticView.Domain;
+package C01.Sescam_C01.Domain;
 
 import java.util.ArrayList;
 
-public class usuario {
+public class Usuario {
 
 	private String user;
 	private String password;
@@ -12,4 +12,5 @@ public class usuario {
 	private String dni;
 	private String correo;
 	private ArrayList<String> permisos;
+
 }
