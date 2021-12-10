@@ -1,5 +1,7 @@
 package StaticView.Domain;
 
+import java.util.ArrayList;
+
 public class usuario {
 
 	private string user;
