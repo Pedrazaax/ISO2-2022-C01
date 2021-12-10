@@ -4,12 +4,12 @@ import java.util.ArrayList;
 
 public class usuario {
 
-	private string user;
-	private string password;
-	private string tipoUsuario;
-	private string nombre;
-	private string apellidos;
-	private string dni;
-	private string correo;
-	private ArrayList<string> permisos;
+	private String user;
+	private String password;
+	private String tipoUsuario;
+	private String nombre;
+	private String apellidos;
+	private String dni;
+	private String correo;
+	private ArrayList<String> permisos;
 }
