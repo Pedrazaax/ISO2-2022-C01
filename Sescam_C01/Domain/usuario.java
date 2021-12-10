@@ -12,5 +12,4 @@ public class usuario {
 	private string dni;
 	private string correo;
 	private ArrayList<string> permisos;
-
 }
