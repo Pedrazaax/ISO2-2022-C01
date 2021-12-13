@@ -1,4 +1,4 @@
-package StaticView.Presentation;
+package src.Presentation;
 
 public class IU_GestorEnfermedad {
 

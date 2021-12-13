@@ -1,6 +1,4 @@
-package C01.Sescam_C01.Domain;
-
-import java.util.ArrayList;
+package src.Domain;
 
 public class Usuario {
 
