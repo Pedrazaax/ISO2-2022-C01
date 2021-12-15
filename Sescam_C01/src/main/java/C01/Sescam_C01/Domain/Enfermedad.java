@@ -1,7 +1,5 @@
 package C01.Sescam_C01.Domain;
 
-import java.util.ArrayList;
-
 public class Enfermedad {
 
 	private String nombre;
